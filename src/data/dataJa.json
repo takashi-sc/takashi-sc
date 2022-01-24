@@ -1,0 +1,100 @@
+{
+	"workhistory": {
+		"development": [
+			{
+				"year": "2015-2018",
+				"company": "ソニーコンピューターサイエンス研究所",
+				"project": "OES プロジェクト",
+				"details": [
+					{
+						"description": "電力融通システム: ハードウェア管理 / コンフィグ出力システム開発 (Node.js / Express / MongoDB)"
+					},
+					{
+						"description": "電力融通システム: 障害管理 / レポートシステム開発  (Node.js / Express / MongoDB)"
+					},
+					{
+						"description": "電力融通システム: 開発サーバー構築 (MacOS / Ubuntu)"
+					},
+					{
+						"description": "電力融通システム: 開発様シミュレーター環境構築 (Debian)"
+					}
+				]
+			},
+			{
+				"year": "2018-2020",
+				"company": "トヨタ自動車株式会社",
+				"project": "ADAS プロジェクト",
+				"details": [
+					{
+						"description": "自動運転開発サーバー構築 (Ubuntu)"
+					},
+					{
+						"description": "自動運転開発サーバー 既存システムとの接続部分の開発 (Node.js)"
+					}
+				]
+			},
+			{
+				"year": "2020",
+				"company": "株式会社ネクスティエレクトロニクス",
+				"project": "モデル流通プラットフォーム プロジェクト",
+				"details": [
+					{
+						"description": "モデル流通プラットフォームデモ環境 構築(CentOS)"
+					},
+					{
+						"description": "モデル流通プラットフォームデモ環境 開発(Node.js Express)"
+					}
+				]
+			},
+			{
+				"year": "2020-2021",
+				"company": "トヨタ自動車株式会社",
+				"project": "ADAS プロジェクト",
+				"details": [
+					{
+						"description": "車両諸元データベース フロントエンド サポート開発(Javascript JQuery)"
+					},
+					{
+						"description": "車両諸元データベース デプロイ環境 構築 (RHEL VMWare)"
+					}
+				]
+			},
+			{
+				"year": "2021",
+				"company": "理化学研究所",
+				"project": "共同研究プロジェクト",
+				"details": [
+					{
+						"description": "合意記述システム デプロイ環境 構築 (Docker Gitlab)"
+					}
+				]
+			}
+		],
+		"presentation": [
+			{
+				"year": "2013",
+				"event": "IEEE ISSRE WOSD",
+				"title": "A New Method of Consensus Building for Open Systems Dependability",
+				"link": "https://www.computer.org/csdl/proceedings-article/issrew/2013/06688910/12OmNBf94Ut",
+				"place": "Pasadena, California",
+				"role": "Speaker / Presenter"
+			},
+			{
+				"year": "2015",
+				"event": "IEEE ISSRE WOSD",
+				"title": "Application of D-Case/D-ADD to the development of a Distributed Power Management System",
+				"link": "https://issre.net/",
+				"place": "National Insutitute of Standard and Technology, Washington DC",
+				"role": "Speaker / Presenter"
+			},
+			{
+				"year": "2017",
+				"event": "AAA 2017",
+				"title": "Introduction of Agreement Description Database For DEOS",
+				"link": "https://sites.google.com/site/isaiaaa2017/",
+				"place": "Tsukuba University, Tokyo campus",
+				"role": "Speaker / Presenter"
+			}
+		]
+	}
+}

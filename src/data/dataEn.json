@@ -1,0 +1,97 @@
+{
+	"workhistory": {
+		"development": [
+			{
+				"year": "2015-2018",
+				"company": "Sony Computer Science Laboratory",
+				"project": "Open Energy System Project",
+				"details": [
+					{
+						"description": "Hardware management / Config export application development"
+					},
+					{
+						"description": "Failure incident management / report application development"
+					},
+					{
+						"description": "Development infrastructural design and setup"
+					},
+					{
+						"description": "Development Simulator for Enegery interchange setup"
+					}
+				]
+			},
+			{
+				"year": "2018-2020",
+				"company": "Toyota Motor Corporation",
+				"project": "ADAS Project",
+				"details": [
+					{
+						"description": "Development server infrastructure design and setup"
+					},
+					{
+						"description": "Setup and partially develop single signon over development server services"
+					}
+				]
+			},
+			{
+				"year": "2020",
+				"company": "Nexty Electronics Corporation",
+				"project": "Model Distribution Project",
+				"details": [
+					{
+						"description": "Demo platform design and development"
+					}
+				]
+			},
+			{
+				"year": "2020-2021",
+				"company": "Toyota Motor Corporation",
+				"project": "ADAS Project",
+				"details": [
+					{
+						"description": "Frontend support development"
+					},
+					{
+						"description": "Deployment server design and setup"
+					}
+				]
+			},
+			{
+				"year": "2021",
+				"company": "RIKEN research institute",
+				"project": "Collaboration Project",
+				"details": [
+					{
+						"description": "Development server design and setup"
+					}
+				]
+			}
+		],
+		"presentation": [
+			{
+				"year": "2013",
+				"event": "IEEE ISSRE WOSD",
+				"title": "A New Method of Consensus Building for Open Systems Dependability",
+				"link": "https://www.computer.org/csdl/proceedings-article/issrew/2013/06688910/12OmNBf94Ut",
+				"place": "Pasadena, California",
+				"role": "Speaker / Presenter"
+			},
+			{
+				"year": "2015",
+				"event": "IEEE ISSRE WOSD",
+				"title": "Application of D-Case/D-ADD to the development of a Distributed Power Management System",
+				"link": "https://issre.net/",
+				"place": "National Insutitute of Standard and Technology, Washington DC",
+				"role": "Speaker / Presenter"
+			},
+			{
+				"year": "2017",
+				"event": "AAA 2017",
+				"title": "Introduction of Agreement Description Database For DEOS",
+				"link": "https://sites.google.com/site/isaiaaa2017/",
+				"place": "Tsukuba University, Tokyo campus",
+				"role": "Speaker / Presenter"
+			}
+		]
+	}
+}
